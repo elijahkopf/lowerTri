@@ -1,0 +1,42 @@
+Riik;Laulja;Laulunimetus;Heliloojad;Sõnade autorid;Riigi värv 1;Riigi värv 2;Riigi värv 3
+ALBAANIA;Arilena Ara;Fall From The Sky;Darko Dimitrov, Lazar Cvetkoski;Michael Blue, Robert Stevenson, Sam Schummer;c14544;130100;c14544
+UKRAINA;Go_A;Solovey;Taras Shevchenko, Kateryna Pavlenko;Kateryna Pavlenko;efd756;245689;efd756
+VALGEVENE;VAL;Da Vidna;Vladislav Pashkevich, Valeria Gribusova;Mikita Naidzenau;ca423f;7bb463;eaeaea
+ARMEENIA;Athena Manoukian;Chains On You;Athena Manoukian, DJ Paco;Athena Manoukian;d9222a;005093;eb8b2d
+AUSTRAALIA;Montaigne;Don't Break Me;Montaigne, Anthony Egizii, David Musumeci;Montaigne, Anthony Egizii, David Musumeci;002776;fefefe;df093b
+AUSTRIA;Vincent Bueno;Alive;Vincent Bueno, David "Davey" Yang, Felix van Göns, Artur Aigner;Vincent Bueno;da2f2d;fefefe;da2f2d
+ASERBAIDŽAAN;Efendi;Cleopatra;Luuk van Beers, Alan Roy Scott, Sarah Lake;Luuk van Beers, Alan Roy Scott, Sarah Lake;1a8fc3;de4a37;039e60
+BELGIA;Hooverphonic;Release Me;Alex Callier, Luca Chiaravalli;Alex Callier, Luca Chiaravalli;000105;f3ea46;dd443f
+BULGAARIA;VICTORIA;Tears Getting Sober;Victoria Georgieva, Borislav Milanov, Lukas Oskar Janisch, Cornelia Wiebols;Victoria Georgieva, Borislav Milanov, Lukas Oscar Janisch;fefefe;009949;d9222a
+HORVAATIA;Damir Kedžo;Divlji Vjetre;Ante Pecotić;Ante Pecotić;dc3d33;fefefe;195092
+KÜPROS;Sandro;Running;Alfie Arcuri, Sebastian Rickards, Octavian Rasinariu, Sandro, Teo DK;Alfie Arcuri, Sebastian Rickards, Octavian Rasinariu, Sandro;fefefe;e98a31;116551
+TŠEHHI;Benny Cristo;Kemama;Osama Hussain, Rudy Ray, Filip Zangi;Ben Cristovao, Charles Sarpong;fefefe;124680;d8131a
+TAANI;Ben & Tan;YES;Emil Adler Lei, Jimmy Jansson, Linnea Deb;Emil Adler Lei, Jimmy Jansson, Linnea Deb;de482d;fefefe;de482d
+EESTI;Uku Suviste;What Love Is;Uku Suviste;Sharon Vaughn;2074ae;000105;fefefe
+SOOME;Aksel;Looking Back;Joonas Angeria, Whitney Phillips, Connor McDonough, Riley McDonough, Toby McDonough;Joonas Angeria, Whitney Phillips, Connor McDonough, Riley McDonough, Toby McDonough;fefefe;1b498d;fefefe
+PRANTSUSMAA;Tom Leeb;Mon Alliée (The Best In Me);Peter Boström, Thomas G:son, John Lundvik;Peter Boström, Thomas G:son, John Lundvik, Tom Leeb, Amir Haddad, Lea Ivanne;174c78;fefefe;d74047
+GRUUSIA;Tornike Kipiani;Take Me As I Am;Tornike Kipiani;Tornike Kipiani;fefefe;d7283c;fefefe
+SAKSAMAA;Ben Dolic;Violent Thing;Borislav Milanov, Peter St. James, Dag Lundberg, Jimmy Thorén, Connor Martin;Borislav Milanov, Peter St. James, Dag Lundberg;151516;de4540;fad860
+KREEKA;Stefania;SUPERG!RL;Dimίtris Kontόpoulos, Arcade;Dimίtris Kontόpoulos, Arcade, Sharon Vaughn;1a5f9b;fefefe;1a5f9b
+ISLAND;Daði og Gagnamagnið;Think About Things;Daði Freyr;Daði Freyr;1d66a3;fefefe;de4540
+IIRIMAA;Lesley Roy;Story Of My Life;Lesley Roy, Robert Marvin, Catt Gravitt, Tom Shapiro;Lesley Roy, Catt Gravitt, Tom Shapiro;099a50;fefefe;e67434
+IISRAEL;Eden Alene;Feker Libi;Doron Medalie, Idan Raichel;Doron Medalie, Idan Raichel;2d72ac;fefefe;2d72ac
+ITAALIA;Diodato;Fai Rumore;Antonio Diodato, Edwyn Roberts;Antonio Diodato;00a65a;fefefe;dc4640
+LÄTI;Samanta Tīna;Still Breathing;Samanta Tīna;Aminata Savadogo;8e2226;fefefe;8e2226
+LEEDU;The Roop;On Fire;Vaidotas Valiukevičius, Robertas Baranauskas, Mantas Banišauskas;Vaidotas Valiukevičius;f4b53a;0e9869;d82e2c
+MALTA;Destiny;All Of My Love;Bernarda Brunovic, Borislav Milanov, Sebastian Arman, Dag Lundberg, Joacim Persson, Cesár Sampson;Bernarda Brunovic, Borislav Milanov, Sebastian Arman, Dag Lundberg, Joacim Persson, Cesár Sampson;dcdedc;fefefe;d02837
+MOLDOVA;Natalia Gordienko;Prison;Dimitris Kontopoulos, Phillip Kirkorov;Sharon Vaughn;1b5f9b;e4da29;de4540
+PÕHJA-MAKEDOONIA;Vasil;YOU;Nevena Neskoska;Nevena Neskoska, Kalina Neskoska, Alice Schroeder;da3237;f8d939;da3237
+NORRA;Ulrikke;Attention;Kjetil Mørland, Christian Ingebrigtsen, Ulrikke Brandstorp;Kjetil Mørland, Christian Ingebrigtsen, Ulrikke Brandstorp;df503d;fefefe;174980
+POOLA;Alicja;Empires;Patryk Kumor, Dominic Buczkowski-Wojtaszek, Laurell Barker, Frazer Mac;Patryk Kumor, Dominic Buczkowski-Wojtaszek, Laurell Barker, Frazer Mac;fefefe;fefefe;df503d
+PORTUGAL;Elisa;Medo De Sentir;Marta Carvalho;Marta Carvalho;168f66;f1e865;de4540
+RUMEENIA;ROXEN;Alcohol You;Ionuţ Armaş, Viky Red;Ionuţ Armaş, Breyan Isaac;1b5f9b;e4da29;de4540
+VENEMAA;Little Big;Uno;Little Big;Little Big;fefefe;1a5f9b;dd443f
+SAN MARINO;Senhit;Freaky!;Gianluigi Fazio, Henrik Steen, Nanna Bottos;Gianluigi Fazio, Henrik Steen, Nanna Bottos;fefefe;d09f48;6ab2cf
+SERBIA;Hurricane;Hasta La Vista;Nemanja Antonić;Kosana Stojić, Sanja Vučić;dd443f;1a5f9b;fefefe
+SLOVEENIA;Ana Soklič;Voda;Ana Soklič, Bojan Simončič, Žiga Pirnat;Ana Soklič;fefefe;1a5f9b;dd443f
+HISPAANIA;Blas Cantó;Universo;Blas Cantó, Dan Hammond, Ash Hicklin, Mikolaj Trybulec, Dangelo Ortega;Blas Cantó, Dan Hammond;aa151b;f1bf00;aa151b
+ROOTSI;The Mamas;Move;Herman Gardarfve, Melanie Wehbe, Patrik Jean;Herman Gardarfve, Melanie Wehbe, Patrik Jean;1a6696;f8c637;1a6696
+ŠVEITS;Gjon's Tears;Répondez-moi;Gjon Muharremaj, Alizé Oswald, Xavier Michel, Jeroen Swinnen;Gjon Muharremaj, Alizé Oswald, Xavier Michel, Jeroen Swinnen;de4540;fefefe;de4540
+HOLLAND;Jeangu Macrooy;Grow;J.A.U. Macrooy, P.L. Perquin;J.A.U. Macrooy;dd443f;fefefe;1a5f9b
+ÜHENDKUNINGRIIK;James Newman;My Last Breath;James Newman, Adam Argyle, Ed Drewett, Iain James;James Newman, Adam Argyle, Ed Drewett, Iain James;213a61;fefefe;d74047
